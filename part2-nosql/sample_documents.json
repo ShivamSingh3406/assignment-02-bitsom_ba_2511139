@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "E101",
+    "category": "Electronics",
+    "product_name": "Smartphone",
+    "brand": "Samsung",
+    "price": 45000,
+    "specifications": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "warranty_years": 2
+    },
+    "features": ["5G", "AMOLED Display", "Fast Charging"]
+  },
+  {
+    "product_id": "C201",
+    "category": "Clothing",
+    "product_name": "Men's Casual Shirt",
+    "brand": "Levis",
+    "price": 1999,
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "colors": ["Blue", "Black", "White"],
+    "care_instructions": {
+      "wash": "Machine Wash",
+      "dry": "Air Dry"
+    }
+  },
+  {
+    "product_id": "G301",
+    "category": "Groceries",
+    "product_name": "Organic Milk",
+    "brand": "Amul",
+    "price": 60,
+    "expiry_date": "2024-12-30",
+    "nutritional_info": {
+      "protein": "3.4g",
+      "fat": "3.5g",
+      "calcium": "120mg"
+    },
+    "package_sizes": ["500ml", "1L"]
+  }
+]
