@@ -27,3 +27,13 @@ assignment-01-bitsom_ba_2511139/
 │── part4-vector-db/
 │── part5-datalake/
 └── part6-capstone/
+
+## Note:
+
+The file `embeddings_demo.ipynb` may show an "Invalid Notebook" preview on GitHub due to missing/corrupted `metadata.widgets` state generated during notebook save.
+
+The notebook runs correctly in Jupyter Notebook / Google Colab / VS Code.
+
+If GitHub preview fails, kindly download and open locally or in Colab.
+
+I have also included the code logic and outputs in the repository files.
